@@ -1,0 +1,322 @@
+[
+    {
+        "question": "What time does the library open?",
+        "answer": "The library opens at 8:00 AM on weekdays."
+    },
+    {
+        "question": "When does the computer lab close?",
+        "answer": "The computer lab closes at 10:00 PM from Monday to Friday."
+    },
+    {
+        "question": "How can I contact student services?",
+        "answer": "You can contact student services by phone, email, or by visiting the student services desk on campus."
+    },
+    {
+        "question": "What is the registration deadline?",
+        "answer": "The registration deadline is Friday at 4:00 PM."
+    },
+    {
+        "question": "Is there a gym on campus?",
+        "answer": "Yes, there is a gym on campus for students."
+    },
+    {
+        "question": "Where is the financial aid office?",
+        "answer": "The financial aid office is located in Building B, Room 210."
+    },
+    {
+        "question": "Where can I get academic advising?",
+        "answer": "Academic advising is available in the student success center."
+    },
+    {
+        "question": "How do I reset my student portal password?",
+        "answer": "You can reset your student portal password through the IT help desk portal or by contacting technical support."
+    },
+    {
+        "question": "Where can I buy textbooks?",
+        "answer": "Textbooks can be purchased from the campus bookstore or the online bookstore portal."
+    },
+    {
+        "question": "What time is the cafeteria open?",
+        "answer": "The cafeteria is open from 7:30 AM to 6:00 PM on weekdays."
+    },
+    {
+        "question": "What time does the library close?",
+        "answer": "The library closes at 9:00 PM on weekdays."
+    },
+    {
+        "question": "How do I connect to campus Wi-Fi?",
+        "answer": "You can connect to campus Wi-Fi using your student login credentials."
+    },
+    {
+        "question": "What should I do if I lose my student ID card?",
+        "answer": "You should report the lost card to student services and request a replacement ID card."
+    },
+    {
+        "question": "How can I get a parking permit?",
+        "answer": "You can apply for a parking permit through the campus parking office or the online parking portal."
+    },
+    {
+        "question": "How do I request an official transcript?",
+        "answer": "You can request an official transcript through the registrar's office or the student portal."
+    },
+    {
+        "question": "Is there a writing center on campus?",
+        "answer": "Yes, the campus writing center provides help with essays, reports, and assignments."
+    },
+    {
+        "question": "Where can I get tutoring help?",
+        "answer": "Tutoring help is available through the academic support center."
+    },
+    {
+        "question": "Where is the international student office?",
+        "answer": "The international student office is located near student services in Building A."
+    },
+    {
+        "question": "How can I check my class schedule?",
+        "answer": "You can check your class schedule through the student portal."
+    },
+    {
+        "question": "How do I access my online courses?",
+        "answer": "You can access your online courses through the college learning management system using your student login."
+    },
+    {
+        "question": "Where can I print documents on campus?",
+        "answer": "You can print documents in the library and computer labs on campus."
+    },
+    {
+        "question": "Does the campus provide disability support services?",
+        "answer": "Yes, disability support services are available for students who need accommodations."
+    },
+    {
+        "question": "Is there a health clinic on campus?",
+        "answer": "Yes, the campus health clinic provides basic medical support and health information."
+    },
+    {
+        "question": "How do I get a student bus pass?",
+        "answer": "You can get a student bus pass through student services or your student union office."
+    },
+    {
+        "question": "Where can I check my exam schedule?",
+        "answer": "You can check your exam schedule on the student portal or the registrar's website."
+    },
+    {
+        "question": "How do I apply for graduation?",
+        "answer": "You can apply for graduation by submitting an application through the registrar's office or the student portal."
+    },
+    {
+        "question": "Is there a co-op or internship office?",
+        "answer": "Yes, the co-op and career office helps students with internships and work placements."
+    },
+    {
+        "question": "How can I apply for scholarships or bursaries?",
+        "answer": "You can apply for scholarships and bursaries through the financial aid office or student portal."
+    },
+    {
+        "question": "What happens if I miss too many classes?",
+        "answer": "If you miss too many classes, it may affect your grades and attendance standing in the course."
+    },
+    {
+        "question": "How do I access my student email?",
+        "answer": "You can access your student email using your college email account login on the official email portal."
+    },
+    {
+        "question": "Where is the residence office?",
+        "answer": "The residence office is located in the student housing building near the main entrance."
+    },
+    {
+        "question": "Is there career counseling on campus?",
+        "answer": "Yes, career counseling is available through the campus career services office."
+    },
+    {
+        "question": "How can I join a student club?",
+        "answer": "You can join a student club by visiting the student life office or attending club registration events."
+    },
+    {
+        "question": "Can I transfer credits from another college?",
+        "answer": "Yes, transfer credits may be accepted after review by the admissions or registrar's office."
+    },
+    {
+        "question": "When is new student orientation?",
+        "answer": "New student orientation is usually held before the start of each semester."
+    },
+    {
+        "question": "How do I pay my tuition fees?",
+        "answer": "You can pay your tuition fees online, through bank transfer, or at the finance office."
+    },
+    {
+        "question": "How can I add money to my meal plan?",
+        "answer": "You can add money to your meal plan through the student account portal or campus card office."
+    },
+    {
+        "question": "Where can I find a quiet study area?",
+        "answer": "Quiet study areas are available in the library and designated study rooms on campus."
+    },
+    {
+        "question": "Can I borrow a laptop from campus?",
+        "answer": "Yes, some campuses allow students to borrow laptops from the library or IT department."
+    },
+    {
+        "question": "How do I file a complaint about a campus service?",
+        "answer": "You can file a complaint through student services or the official campus feedback form."
+    },
+    {
+        "question": "How can I contact campus security?",
+        "answer": "You can contact campus security by phone, through the emergency help desk, or at the security office."
+    },
+    {
+        "question": "How long can I borrow library books?",
+        "answer": "Library books are usually borrowed for two weeks, depending on the item type."
+    },
+    {
+        "question": "Can I renew library books online?",
+        "answer": "Yes, you can renew library books online through your library account."
+    },
+    {
+        "question": "Does the library offer interlibrary loan services?",
+        "answer": "Yes, the library may offer interlibrary loan services for books and articles not available on campus."
+    },
+    {
+        "question": "Are lecture recordings available for classes?",
+        "answer": "Lecture recordings may be available depending on the course and instructor."
+    },
+    {
+        "question": "What does academic probation mean?",
+        "answer": "Academic probation means your academic performance is below the required standard and needs improvement."
+    },
+    {
+        "question": "Can I defer my semester?",
+        "answer": "Yes, semester deferral may be possible by contacting admissions or the registrar's office."
+    },
+    {
+        "question": "How do I update my personal information?",
+        "answer": "You can update your personal information through the student portal or registrar's office."
+    },
+    {
+        "question": "How do I withdraw from a course?",
+        "answer": "You can withdraw from a course through the student portal before the withdrawal deadline."
+    },
+    {
+        "question": "Where can I find the campus map?",
+        "answer": "The campus map is available on the college website and at main campus entrances."
+    },
+    {
+        "question": "Are counseling services available for students?",
+        "answer": "Yes, confidential counseling services are available for students on campus."
+    },
+    {
+        "question": "Can students rent lockers on campus?",
+        "answer": "Yes, lockers may be rented through student services or the campus facilities office."
+    },
+    {
+        "question": "Is there a prayer or meditation room on campus?",
+        "answer": "Yes, some campuses provide a prayer or meditation room for students."
+    },
+    {
+        "question": "Is parking available on weekends?",
+        "answer": "Yes, weekend parking is usually available in designated parking lots."
+    },
+    {
+        "question": "How much does printing cost on campus?",
+        "answer": "Printing costs depend on the number of pages and whether you print in black and white or color."
+    },
+    {
+        "question": "Is there help available in the computer lab?",
+        "answer": "Yes, computer lab assistants or IT staff are available during operating hours."
+    },
+    {
+        "question": "How can I find part-time jobs on campus?",
+        "answer": "You can find part-time jobs on campus through the career services office or student job portal."
+    },
+    {
+        "question": "What is the emergency contact number on campus?",
+        "answer": "The emergency contact number is available on your student ID card and campus website."
+    },
+    {
+        "question": "How will I know if the campus is closed due to weather?",
+        "answer": "Campus closure updates are posted on the official website, email, and emergency alert system."
+    },
+    {
+        "question": "Are alumni services available after graduation?",
+        "answer": "Yes, alumni services may include networking, events, and career support after graduation."
+    },
+    {
+        "question": "Do students need to pay extra to use the gym?",
+        "answer": "Gym access may already be included in student fees, but some services may have extra charges."
+    },
+    {
+        "question": "Is there guest Wi-Fi on campus?",
+        "answer": "Yes, guest Wi-Fi may be available in selected campus areas."
+    },
+    {
+        "question": "What happens if I pay tuition late?",
+        "answer": "Late tuition payment may result in extra fees or restrictions on your registration."
+    },
+    {
+        "question": "Can I get a fee receipt for tax purposes?",
+        "answer": "Yes, fee receipts and tax forms are usually available through the student portal."
+    },
+    {
+        "question": "How do I appeal a final grade?",
+        "answer": "You can appeal a final grade by following the academic appeal process through your department or registrar's office."
+    },
+    {
+        "question": "How can I find my professor's office hours?",
+        "answer": "Professor office hours are usually listed in the course outline or learning management system."
+    },
+    {
+        "question": "Where do I submit assignments?",
+        "answer": "Assignments are usually submitted through the learning management system or as instructed by your professor."
+    },
+    {
+        "question": "Is English language support available for students?",
+        "answer": "Yes, English language support is often available through academic support or language learning services."
+    },
+    {
+        "question": "How can I find campus events?",
+        "answer": "Campus events are listed on the college website, student portal, and student life office notices."
+    },
+    {
+        "question": "Can I book a study room in the library?",
+        "answer": "Yes, study rooms can usually be booked online or at the library service desk."
+    },
+    {
+        "question": "How do I change my program or major?",
+        "answer": "You can request a program change through academic advising or the registrar's office."
+    },
+    {
+        "question": "What are the IT help desk hours?",
+        "answer": "The IT help desk is usually open during regular campus business hours."
+    },
+    {
+        "question": "Where can I get help with plagiarism or citation?",
+        "answer": "You can get help with plagiarism and citation from the writing center or library support staff."
+    },
+    {
+        "question": "Can I get exam accommodations for a documented need?",
+        "answer": "Yes, exam accommodations can be arranged through disability support services with proper documentation."
+    },
+    {
+        "question": "Where is the nearest bus stop to campus?",
+        "answer": "The nearest bus stop is usually located near the main campus entrance."
+    },
+    {
+        "question": "Is the campus open on weekends?",
+        "answer": "Some campus buildings are open on weekends, but hours may be limited."
+    },
+    {
+        "question": "How do I get a replacement diploma or certificate?",
+        "answer": "You can request a replacement diploma or certificate through the registrar's office."
+    },
+    {
+        "question": "Are there volunteer opportunities on campus?",
+        "answer": "Yes, volunteer opportunities are often available through student life and campus community programs."
+    },
+    {
+        "question": "What software can I use in the computer labs?",
+        "answer": "Computer labs usually provide access to common academic, design, and programming software."
+    },
+    {
+        "question": "Can I access campus services during summer break?",
+        "answer": "Yes, many campus services remain available during summer break, although hours may be reduced."
+    }
+]

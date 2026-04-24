@@ -1,0 +1,81 @@
+# =============================================
+# .gitignore for Campus Support Assistant
+# =============================================
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python cache / compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs / temp
+*.log
+logs/
+temp/
+tmp/
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Large model / binary artifacts
+*.pkl
+*.model
+*.bin
+*.gz
+*.zip
+
+# GloVe / embedding downloads
+glove*.txt
+glove*.zip
+
+# Optional generated model folders
+models/*.bin
+models/*.model
+models/*.pkl
+
+# Audio temporary files
+*.mp3
+*.wav
+*.flac
+*.m4a
+
+# Streamlit / Gradio temp
+.streamlit/
+.gradio/
+
+# Keep project data files tracked
+# Do NOT ignore all JSON / CSV files
+# because the project may need:
+# - data/knowledge_base.json
+# - sample datasets
+# - config files
